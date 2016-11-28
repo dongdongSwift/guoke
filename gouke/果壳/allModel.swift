@@ -3,7 +3,7 @@
 //  果壳
 //
 //  Created by 张冬 on 16/10/25.
-//  Copyright © 2016年 陶杰. All rights reserved.
+//  Copyright © 2016年 张冬. All rights reserved.
 //
 
 import UIKit

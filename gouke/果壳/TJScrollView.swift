@@ -2,8 +2,8 @@
 //  JLScrollView.swift
 //  CustomCell-XIB
 //
-//  Created by 沈家林 on 16/9/14.
-//  Copyright © 2016年 沈家林. All rights reserved.
+//  Created by 张冬 on 16/9/14.
+//  Copyright © 2016年 张冬. All rights reserved.
 //
 
 import UIKit

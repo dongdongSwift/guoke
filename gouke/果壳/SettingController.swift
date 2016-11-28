@@ -2,8 +2,8 @@
 //  SettingControllerTableViewController.swift
 //  果壳
 //
-//  Created by qianfeng on 2016/11/10.
-//  Copyright © 2016年 陶杰. All rights reserved.
+//  Created by 张冬 on 2016/11/10.
+//  Copyright © 2016年 张冬. All rights reserved.
 //
 
 import UIKit
